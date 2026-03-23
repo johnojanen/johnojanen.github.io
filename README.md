@@ -1,4 +1,4 @@
-## <p style="text-align:center;">John Ojanen</p>
+##<p style="text-align:center;">John Ojanen</p>
 
 <div style="text-align:left;">Shoreview MN<span style="float:right;">
         651.206.7243
