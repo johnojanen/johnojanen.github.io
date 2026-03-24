@@ -17,7 +17,8 @@ Professional software engineer with passion for solving complex problems across 
 **Platforms:** Android. iOS, macOS, Linux, Nvidia Jetson, Pi, Arduino  
 **Technologies:** PyTorch, TensorFlow, ROS2
 
-<p style="font-weight: bold;text-align:center;">Professional Experience</p>
+<p style="font-weight:bold;text-align:center;">Professional Experience</p>
+
 **Target Corp**, Brooklyn Park, MN 2018 - 2026  
 **Senior Engineer**  
 Served as member of research and development team in Target Guest Experience Center. Built prototypes, researched and evaluated new technologies and worked with teams across Target on novel solutions.  
@@ -27,7 +28,6 @@ Served as member of research and development team in Target Guest Experience Cen
 -   Researched augmented reality uses in retail and developed augmented reality navigation application for Target team members with resulting knowledge serving as basis for Target Corp strategy for AR technology.
 -   Built  system to capture and log location information for automated RFID inventory scanning,  allowing  more accurate and up to date inventory management.
 -   Interfaced with outside vendors including Google, Microsoft, and Intel to integrate new technologies into Guest Experience Center lab for testing and evaluation by Target leadership for informed decision making.
-
 <br>
 
 **Intricon, Inc**, Arden Hills, MN  2016 -- 2017  
@@ -37,7 +37,6 @@ Delivered software development  for Intricon's Sirona Cardiac Holter / Event Rec
 -   Assisted with transfer of project from remote team, delivering new version ahead of schedule.
 -   Created iOS applications to communicate with new hearing aid models over Bluetooth Low Energy (BLE) and added new 16 channel architecture support for newest models, enabling new feature development and testing.
 -   Designed and implemented serial over BLE communications protocol with method of setting parameter blocks to hearing aids, achieving  wireless setup for  first time.
-
 <br>
 
 **myOn / Capstone Digital**, Edina, MN  2014 -- 2016  
@@ -46,7 +45,6 @@ Oversaw development  for  myOn reading platform asset production tools and OS an
 -   Modernized mobile applications and fixed critical bugs to allow access to latest titles for upcoming school year.
 -   Enhanced stability and added features to MacOS-based book production tools, allowing new types of books to be converted for myON and growing online library to > 13K titles.
 -   Created new text extraction tool for PDF  files, speeding up book script production > 10x.
-
 <br>
 
 **MakeMusic, Inc.**, Eden Prairie, MN  2011 -- 2014  
@@ -56,8 +54,8 @@ Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided des
 -   Mentored team members and promoted new development practices including agile methods, continuous integration, and code reviews, improving product quality and ship dates.
 -   Created common C++ library for supporting Finale files on Apple platforms, supporting  simultaneous release of Finale and SmartMusic so customers could upgrade sooner.
 -   Served as lead engineer on SmartMusic for iPad team that delivered multiple versions, giving students ability to practice and complete assignments on  mobile device for first time.
-
 <br>
+
 <p style="font-weight: bold;text-align:center;">Additional Relevant Experience</p>
 **Adobe Systems Inc**., San Jose, CA  
 **Computer Scientist**
