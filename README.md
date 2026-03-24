@@ -5,8 +5,8 @@
         https://www.linkedin.com/in/johnojanen/
     </span></p>
 
-**<div style="text-align:center;">Senior Software Engineer</div>**
-**<div style="text-align:center;">Building High‑Impact Mobile, Vision & Robotics Solutions</div>**
+<div style="font-weight: bold;text-align:center;">Senior Software Engineer</div>
+<div style="font-weight: bold;text-align:center;">Building High‑Impact Mobile, Vision & Robotics Solutions</div>
 
 Professional software engineer with passion for solving complex problems across mobile, vision, and robotics, and hardware-integrated systems. Flexible, results-oriented developer experienced in rapid  prototyping and work at intersection of software and hardware. Effective in team leadership, cross-functional collaboration, and independent execution.
 
