@@ -7,10 +7,11 @@
 
 <div style="font-weight: bold;text-align:center;">Senior Software Engineer</div>
 <div style="font-weight: bold;text-align:center;">Building High‑Impact Mobile, Vision & Robotics Solutions</div>
-
+<br>
 Professional software engineer with passion for solving complex problems across mobile, vision, and robotics, and hardware-integrated systems. Flexible, results-oriented developer experienced in rapid  prototyping and work at intersection of software and hardware. Effective in team leadership, cross-functional collaboration, and independent execution.
 
-**<p style="text-align:center;">Technical Skills</p>**
+<br>
+<p style="font-weight: bold;text-align:center;">Technical Skills</p>
 
 **Competencies:** Mobile, Computer Vision, Machine Learning, UI, BLE, Robotics, CNC  
 **Languages:** Kotlin, Java, Swift, C++, Objective C, Python, SQL  
@@ -28,7 +29,8 @@ Served as member of research and development team in Target Guest Experience Cen
 -   Built  system to capture and log location information for automated RFID inventory scanning,  allowing  more accurate and up to date inventory management.
 -   Interfaced with outside vendors including Google, Microsoft, and Intel to integrate new technologies into Guest Experience Center lab for testing and evaluation by Target leadership for informed decision making.
 
-####
+<br>
+
 **Intricon, Inc**, Arden Hills, MN  2016 -- 2017  
 **Senior Mobile Software Developer**  
 Delivered software development  for Intricon's Sirona Cardiac Holter / Event Recorder and hearing aids.  
@@ -37,8 +39,8 @@ Delivered software development  for Intricon's Sirona Cardiac Holter / Event Rec
 -   Created iOS applications to communicate with new hearing aid models over Bluetooth Low Energy (BLE) and added new 16 channel architecture support for newest models, enabling new feature development and testing.
 -   Designed and implemented serial over BLE communications protocol with method of setting parameter blocks to hearing aids, achieving  wireless setup for  first time.
 
+<br>
 
-####
 **myOn / Capstone Digital**, Edina, MN  2014 -- 2016  
 **Senior Developer**  
 Oversaw development  for  myOn reading platform asset production tools and OS and Android client applications.
@@ -46,7 +48,8 @@ Oversaw development  for  myOn reading platform asset production tools and OS an
 -   Enhanced stability and added features to MacOS-based book production tools, allowing new types of books to be converted for myON and growing online library to > 13K titles.
 -   Created new text extraction tool for PDF  files, speeding up book script production > 10x.
 
-####
+<br>
+
 **MakeMusic, Inc.**, Eden Prairie, MN  2011 -- 2014  
 **Senior Software Engineer**  
 Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided design and architecture guidance for iOS products to help  product teams transition legacy technology.
@@ -55,8 +58,11 @@ Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided des
 -   Created common C++ library for supporting Finale files on Apple platforms, supporting  simultaneous release of Finale and SmartMusic so customers could upgrade sooner.
 -   Served as lead engineer on SmartMusic for iPad team that delivered multiple versions, giving students ability to practice and complete assignments on  mobile device for first time.
 
-**<p style="text-align:center;">Additional Relevant Experience</p>**
-**ADOBE SYSTEMS INC**., San Jose, CA  
+<br>
+
+<p style="font-weight: bold;text-align:center;">Additional Relevant Experience</p>
+
+**Adobe Systems Inc**., San Jose, CA  
 **Computer Scientist**
 
 **MECC**., Brooklyn Center, MN  
@@ -66,7 +72,7 @@ Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided des
 **Software Developer**  
 Clients include: Aster Labs, Datrix, Thomson Reuters, Cleveland Clinics, EBSCO Publishing
 
-**<div style="text-align:center;">Education</div>**
-**<p style="text-align:center;">Bachelor of Science (BS),** Computer Science, University of Minnesota, Duluth, MN</p>
+<div style="font-weight: bold;text-align:center;">Education</div>
+<p style="text-align:center;">Bachelor of Science (BS), Computer Science, University of Minnesota, Duluth, MN</p>
 
-**<div style="text-align:center;">Certifications</div>**<div style="text-align:center;">Test Driven Development Training</div><div style="text-align:center;">Agile Methodologies / Scrum Training</div>
+<div style="font-weight: bold;text-align:center;">Certifications</div><div style="text-align:center;">Test Driven Development Training</div><div style="text-align:center;">Agile Methodologies / Scrum Training</div>
