@@ -9,7 +9,6 @@
 <div style="font-weight: bold;text-align:center;">Building High‑Impact Mobile, Vision & Robotics Solutions</div>
 <br>
 Professional software engineer with passion for solving complex problems across mobile, vision, and robotics, and hardware-integrated systems. Flexible, results-oriented developer experienced in rapid  prototyping and work at intersection of software and hardware. Effective in team leadership, cross-functional collaboration, and independent execution.
-
 <br>
 <p style="font-weight: bold;text-align:center;">Technical Skills</p>
 
@@ -18,7 +17,7 @@ Professional software engineer with passion for solving complex problems across 
 **Platforms:** Android. iOS, macOS, Linux, Nvidia Jetson, Pi, Arduino  
 **Technologies:** PyTorch, TensorFlow, ROS2
 
-**<p style="text-align:center;">Professional Experience</p>**
+<p style="font-weight: bold;text-align:center;">Professional Experience</p>
 **Target Corp**, Brooklyn Park, MN 2018 - 2026  
 **Senior Engineer**  
 Served as member of research and development team in Target Guest Experience Center. Built prototypes, researched and evaluated new technologies and worked with teams across Target on novel solutions.  
@@ -59,9 +58,7 @@ Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided des
 -   Served as lead engineer on SmartMusic for iPad team that delivered multiple versions, giving students ability to practice and complete assignments on  mobile device for first time.
 
 <br>
-
 <p style="font-weight: bold;text-align:center;">Additional Relevant Experience</p>
-
 **Adobe Systems Inc**., San Jose, CA  
 **Computer Scientist**
 
@@ -71,7 +68,6 @@ Led  mobile development for Finale Songbook and SmartMusic for iOS. Provided des
 **FREELANCE**, Shoreview, MN  
 **Software Developer**  
 Clients include: Aster Labs, Datrix, Thomson Reuters, Cleveland Clinics, EBSCO Publishing
-
 <div style="font-weight: bold;text-align:center;">Education</div>
 <p style="text-align:center;">Bachelor of Science (BS), Computer Science, University of Minnesota, Duluth, MN</p>
 
